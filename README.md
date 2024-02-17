@@ -1,6 +1,6 @@
 # bmi_calculater
 
-about my body mass index
+Basically it is a BMI-Calculator App(Body Mass Index App)
 
 ## Getting Started
 
